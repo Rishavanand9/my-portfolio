@@ -29,7 +29,7 @@ const ContentGrid = styled(Grid)(({ theme }) => ({
   height: "100vh",
   display: "flex",
   justifyContent: "left",
-  padding: "10px",
+  padding: "20px",
   alignItems: "center",
 }));
 
@@ -39,7 +39,7 @@ const ContentGridMobile = styled(Grid)(({ theme }) => ({
   minHeight: "100vh",
   display: "flex",
   justifyContent: "left",
-  padding: "10px",
+  padding: "20px",
   alignItems: "center",
 }));
 
